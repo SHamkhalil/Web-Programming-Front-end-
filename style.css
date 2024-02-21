@@ -1,0 +1,141 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+/* header */
+.header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #15155b;
+    color: #fff;
+    padding: 5px 4px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.header button {
+    background-color: #553E11;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.header button:hover {
+    background-color: #777;
+}
+/* about me */
+.about {
+    margin-top: 75px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.about img {
+    max-width: 275px;
+    margin-right: 20px;
+}
+
+.about p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.about-text {
+    flex: 1;
+}
+
+.about-text p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 0 10px;
+}
+/* projects */
+.projects_1 {
+    margin-top: -50px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.projects_2 {
+    margin-top: -15px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.projects_1 img {
+    max-width: 450px;
+    margin-left: 20px;
+}
+.projects_2 img{
+    max-width: 425px;
+    margin-right: 20px;
+}
+
+.projects p {
+    color: #333;
+    line-height: 1.5;
+}
+
+.projects-text {
+    flex: 1;
+}
+
+.projects-text p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 0 0 10px;
+}
+  
+/* footer */
+.footer {
+    background-color: #15155b;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.footer-content {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-links li {
+    display: inline;
+    margin-right: 10px;
+}
+.footer-links li a {
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+}
