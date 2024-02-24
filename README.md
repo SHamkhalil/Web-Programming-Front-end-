@@ -1,4 +1,4 @@
-To develop the website in this repository, I use simple HTML commands and some CSS styling to enhance its applicability. Initially, I established the general structure using HTML. The general structure looking like:
+![image](https://github.com/SHamkhalil/Web-Programming-Front-end-/assets/119887427/07bc0b14-5186-4665-85d6-75258117f87e)To develop the website in this repository, I use simple HTML commands and some CSS styling to enhance its applicability. Initially, I established the general structure using HTML. The general structure looking like:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -69,9 +69,9 @@ The CSS portion is straightforward. The primary elements of the CSS code include
 }
 ```
 And so the header will look, like this:
-![header](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/header.png?raw=true)
+![header](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/photos/doc/header.png?raw=true)
 Here, there are two redundancies, specifically the header button and the header button:hover. Initially, there were buttons at the top of the page; however, afterwards, it seemed as if they were redundant due to the website's length.
-![buttons displayed](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/buttons.png?raw=true)
+![buttons displayed](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/photos/doc/buttons.png?raw=true)
 Then came time to write the about me section, the same section was rehashed and used in the projets section. The only difference being the the flex-direction was changed from row to row-reversed.
 A general structure of these sections was looking like:
 ```
@@ -138,6 +138,6 @@ The last part of the website was the footer, which is essentially a rehashing of
 Each of the icons is clickable and leads to the pages that I own. Additionally, an email is provided; however, the email can only be copied by selecting it.
 Again the CSS behind the footer is quite literally the same as in the header, so there is no point in dissecting it.
 At the end the footer would look like something like this:
-![footer](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/footer.png?raw=true)
+![footer](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/photos/doc/footer.png?raw=true)
 At the very end if the provided code is run the following website should appear:
-![website_overview](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/overview.png?raw=true)
+![website_overview](https://github.com/SHamkhalil/Web-Programming-Front-end-/blob/main/photos/doc/overview.png?raw=true)
