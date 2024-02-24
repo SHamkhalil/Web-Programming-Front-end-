@@ -1,4 +1,4 @@
-![image](https://github.com/SHamkhalil/Web-Programming-Front-end-/assets/119887427/07bc0b14-5186-4665-85d6-75258117f87e)To develop the website in this repository, I use simple HTML commands and some CSS styling to enhance its applicability. Initially, I established the general structure using HTML. The general structure looking like:
+To develop the website in this repository, I use simple HTML commands and some CSS styling to enhance its applicability. Initially, I established the general structure using HTML. The general structure looking like:
 ```
 <!DOCTYPE html>
 <html lang="en">
