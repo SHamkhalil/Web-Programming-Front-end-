@@ -68,3 +68,4 @@ The CSS portion is straightforward. The primary elements of the CSS code include
     background-color: #777;
 }
 ```
+Here, there are two redundancies, specifically the header button and the header button:hover. Initially, there were buttons at the top of the page; however, afterwards, it seemed as if they were redundant due to the website's length.
